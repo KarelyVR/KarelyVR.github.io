@@ -68,9 +68,13 @@ h2{
   font-size: 1.2rem;
 }
 
+.btn-dark{
+  margin: 10px;
+}
+
 .btn-info {
   font-size: 1.1rem;
-  margin: 20px;
+  margin: 10px;
   background-color: #75d41d;
   border-color: #75d41d;
   font-family: 'Raleway', sans-serif;
@@ -190,7 +194,7 @@ background: linear-gradient(180deg, rgba(218,235,255,1) 0%, rgba(241,218,255,1) 
 }
 
 .proyectos-contenedor {
-  padding-top: 60px;
+  padding-top: 40px;
   margin-bottom: 40px;
 }
 
@@ -232,6 +236,10 @@ background: linear-gradient(180deg, rgba(218,235,255,1) 0%, rgba(241,218,255,1) 
   margin: 10px;
 }
 
+#exampleModalLabel{
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+}
 
 /* Testimonios */
 
